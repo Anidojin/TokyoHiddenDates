@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  font-family: 'Noto Serif JP', serif; /* 高級感ある和風フォント */
+  background-color: #f8f9fa; /* 薄いグレー */
+  color: #333; /* 落ち着いたテキスト色 */
+}
+
+h1, h2 {
+  color: #2c3e50; /* ダークブルーで洗練感 */
+}
